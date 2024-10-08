@@ -1,0 +1,5 @@
+﻿내용,유형,URL,작업상태
+회원가입 승인 대기 페이지 상태 보여주기,GET,api/admin/state/,No
+승인 요청,POST,api/user/approval/{user_id},No
+거절 요청,POST,api/user/rejection/{user_id},No
+,,,No

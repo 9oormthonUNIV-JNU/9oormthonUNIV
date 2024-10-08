@@ -1,0 +1,5 @@
+﻿내용,유형,URL,작업상태
+" 일정 리스트 ",GET,api/schedule,No
+" 일정 추가",POST,api/schedule/add,No
+" 일정 수정",PATCH,api/schedule/modify,No
+" 일정 삭제",DELETE,api/schedule/delete,No

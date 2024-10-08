@@ -1,0 +1,6 @@
+﻿내용,유형,URL,작업상태
+게시글  리스트 조회,GET,api/post,No
+게시글  세부정보 조회,POST,api/post/{post_id},No
+"게시글  등록 ",POST,api/post,No
+"게시글  삭제 ",DELETE,api/post/{post_id},No
+" 게시글 수정",PATCH,api/post/{post_id},No

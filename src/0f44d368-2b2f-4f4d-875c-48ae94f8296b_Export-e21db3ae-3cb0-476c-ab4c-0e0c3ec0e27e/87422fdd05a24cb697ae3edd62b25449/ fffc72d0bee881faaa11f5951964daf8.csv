@@ -1,0 +1,4 @@
+﻿내용,유형,URL,작업상태
+로그인 요청,POST,api/user/login,No
+회원가입 요청,POST,api/user/signup,No
+이메일 인증코드 (재발송) 요청,POST,api/user/authentication,No

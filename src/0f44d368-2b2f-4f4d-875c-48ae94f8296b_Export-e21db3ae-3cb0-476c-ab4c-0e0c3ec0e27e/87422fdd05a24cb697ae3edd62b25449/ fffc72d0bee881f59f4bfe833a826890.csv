@@ -1,0 +1,4 @@
+﻿내용,유형,URL,작업상태
+"마이페이지 세부정보 수정 ",PATCH,api/user/{user_id},No
+"마이페이지 사진 업로드 ",POST,api/user/imageAdd/{user_id},No
+비밀번호 변경 요청,POST,api/user/password/{userid},No
