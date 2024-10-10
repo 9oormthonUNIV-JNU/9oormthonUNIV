@@ -64,29 +64,144 @@
     * 사용자는 회원 정보를 입력하여 웹사이트에 가입할 수 있으며, 가입 단계에서 이메일 인증을 통해 회원가입을 완료할 수 있습니다.
     * 회원가입 단계 이후, 추가적인 절차를 통해 교내 미르미인지 검증하는 단계를 거쳐 검증된 사용자라면 승인되어 로그인이 가능하도록 합니다.
    
+      <details>
+       <summary> 로그인 및 회원가입 </summary>
+       <div>
+         
+        1. 로그인
+
+         <img src="https://github.com/9oormthonUNIV-JNU/9oormthonUNIV_JNU/blob/main/src/functions/login.png" width="auto" height="auto">
+         
+        2. 회원가입
+      
+         <img src="https://github.com/9oormthonUNIV-JNU/9oormthonUNIV_JNU/blob/main/src/functions/signup.png" width="auto" height="auto">
+         
+        3. 회원가입 관련 상태변화
+           
+         <img src="https://github.com/9oormthonUNIV-JNU/9oormthonUNIV_JNU/blob/main/src/functions/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EA%B4%80%EB%A0%A8%20%EC%83%81%ED%83%9C%EB%B3%80%ED%99%94.png" width="auto" height="auto">
+   
+        4. 승인 대기
+     
+         <img src="https://github.com/9oormthonUNIV-JNU/9oormthonUNIV_JNU/blob/main/src/functions/%EC%8A%B9%EC%9D%B8%EB%8C%80%EA%B8%B0%ED%8E%98%EC%9D%B4%EC%A7%80.png" width="auto" height="auto">
+         
+       </div>
+     </details>
+   
   - 메인 페이지
     * 메인 페이지에서는 저희 동아리에 관한 간단한 소개와 함께 어떠한 활동이 이루어지고 있는지, 그리고 교내 및 중앙 행사 일정을 확인하실 수 있습니다.
+   
+      <details>
+       <summary> 메인 페이지 </summary>
+       <div>
+         
+         <img src="https://github.com/9oormthonUNIV-JNU/9oormthonUNIV_JNU/blob/main/src/functions/Home.png" width="auto" height="auto">
+         
+       </div>
+     </details>
    
   - 멤버 페이지
     * 회원가입 이후 승인된 사용자는 해당 페이지에 등록되며, 사진/기수/파트와 같은 개인 정보는 마이 페이지에서 수정할 수 있습니다.
     * 상단에 배치된 파트별/기수별 필터링 기능을 통해 원하는 정보를 빠르게 찾아볼 수 있도록 합니다.
+   
+      <details>
+       <summary> 멤버 페이지 </summary>
+       <div>
+         
+         <img src="https://github.com/9oormthonUNIV-JNU/9oormthonUNIV_JNU/blob/main/src/functions/member.png" width="auto" height="auto">
+         
+       </div>
+     </details>
 
   - 액티비티 페이지
     * 동아리에서 이루어지는 모든 활동을 액티비티 페이지에서 확인할 수 있으며, 세부 항목으로는 프로젝트(교내, 해커톤)/세미나/스터디/네트워킹이 있습니다.
     * 컨텐츠 박스에는 간략하게 컴포넌트 형식으로 정보가 제공되고, 각 항목별로 자세한 정보는 컨텐츠 박스를 클릭하여 나타나는 모달창을 통해 확인할 수 있습니다.
    
+      <details>
+       <summary> 액티비티 페이지 </summary>
+       <div>
+   
+         1. 프로젝트 카테고리
+         
+         <img src="https://github.com/9oormthonUNIV-JNU/9oormthonUNIV_JNU/blob/main/src/functions/activity/project.png" width="auto" height="auto">
+   
+         2. 컨텐츠 박스 클릭 시 모달창
+         
+         <img src="https://github.com/9oormthonUNIV-JNU/9oormthonUNIV_JNU/blob/main/src/functions/activity/project-1.png" width="auto" height="auto">
+   
+         3. 세미나 카테고리
+         
+         <img src="https://github.com/9oormthonUNIV-JNU/9oormthonUNIV_JNU/blob/main/src/functions/activity/seminar.png" width="auto" height="auto">
+   
+         4. 네트워킹 카테고리
+         
+         <img src="https://github.com/9oormthonUNIV-JNU/9oormthonUNIV_JNU/blob/main/src/functions/activity/networking.png" width="auto" height="auto">
+         
+       </div>
+     </details>
+   
   - 리크루트 페이지
     * 동아리에 관심이 있는 재학생 또는 모집 기간에 동아리원 모집 대한 정보를 확인할 수 있도록 제작한 페이지입니다.
     * 이전 모집 공고글/FAQ 등 다양한 정보를 제공하고 있습니다.
+   
+      <details>
+       <summary> 리크루트 페이지 </summary>
+       <div>
+         
+         <img src="https://github.com/9oormthonUNIV-JNU/9oormthonUNIV_JNU/blob/main/src/functions/recruit.png" width="auto" height="auto">
+         
+       </div>
+     </details>
    
   - 마이 페이지 및 일정 페이지
     * 로그인을 하게 되면 상단 네비게이션 바의 우측에 위치한 회원 사진 아이콘을 클릭하여 마이 페이지 또는 일정 페이지로 이동이 가능합니다.
     * 마이 페이지를 통해 회원 정보(사진, 파트, 기수 등)의 추가 및 수정이 가능합니다.
     * 일정 페이지에서 동아리의 전반적인 행사 정보를 달력 형태로 확인할 수 있고, 추가/수정은 관리자만 가능합니다.
    
+      <details>
+       <summary> 마이 페이지 및 일정 페이지 </summary>
+       <div>
+   
+         1. 내 정보 수정
+         
+         <img src="https://github.com/9oormthonUNIV-JNU/9oormthonUNIV_JNU/blob/main/src/functions/mypage/info.png" width="auto" height="auto">
+   
+         2. 비밀번호 변경
+         
+         <img src="https://github.com/9oormthonUNIV-JNU/9oormthonUNIV_JNU/blob/main/src/functions/mypage/pw.png" width="auto" height="auto">
+   
+         3. 비밀번호 변경 - 오류 메세지
+         
+         <img src="https://github.com/9oormthonUNIV-JNU/9oormthonUNIV_JNU/blob/main/src/functions/mypage/pw-1.png" width="auto" height="auto">
+   
+         4. 일정 페이지
+         
+         <img src="https://github.com/9oormthonUNIV-JNU/9oormthonUNIV_JNU/blob/main/src/functions/일반일정페이지.png" width="auto" height="auto">
+         
+       </div>
+     </details>
+   
   - 관리자 페이지
     * 동아리 행사 또는 일정을 기록하고 수정하기 위해 만든 기능입니다.
     * 관리자 계정으로만 엑세스가 가능하며, 회원 관리/일정 관리/게시글 관리 기능을 지원합니다.
+   
+      <details>
+       <summary> 관리자 페이지 </summary>
+       <div>
+   
+         1. 회원 관리
+         
+         <img src="https://github.com/9oormthonUNIV-JNU/9oormthonUNIV_JNU/blob/main/src/functions/adminpage/user_admin.png" width="auto" height="auto">
+   
+         2. 일정 관리
+         
+         <img src="https://github.com/9oormthonUNIV-JNU/9oormthonUNIV_JNU/blob/main/src/functions/adminpage/calender.png" width="auto" height="auto">
+   
+         3. 게시글 관리
+         
+         <img src="https://github.com/9oormthonUNIV-JNU/9oormthonUNIV_JNU/blob/main/src/functions/adminpage/게시글.png" width="auto" height="auto">
+         
+       </div>
+     </details>
 
 
 ### 📈 개발 프로세스
@@ -157,8 +272,6 @@
   4. API URL과 요청 및 응답값 작성
 
 ### 🚨 이슈 및 트러블 슈팅
-
-#### 📝 PM
 
 #### 🎨 Design
   - 이슈
